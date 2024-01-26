@@ -1,5 +1,7 @@
 <h1 align="center">Hello there 👋, I´m María</h1>
-<img src=".././MariaGarciaJordan/image/zorrito.gif">
+<div align="center">
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="80" />
+</div>
 
 
 <h3 align="center">A full-stack development student from Asturias</h3>
