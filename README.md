@@ -15,7 +15,11 @@ I am curious, creative and I like to innovate, I have a focus on self-improvemen
 - 🌱 I’m currently learning **Full-Stack development**
 
 ## 🔭Known Technologies
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,tailwind,git,github,figma,php,)](https://skillicons.dev"/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,)](https://skillicons.dev"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,sass,react,tailwind,figma,)](https://skillicons.dev"/>
+</div>
 
 ## 📟 Let's Connect!
 <img src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev" href="https://www.linkedin.com/in/maria-garcia-jordan/"/>
