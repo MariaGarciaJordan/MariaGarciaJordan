@@ -44,6 +44,7 @@ This allows me to not only build systems, but ensure they work under real produc
 
 ## Additional Technologies
 
+- LESS (AEM environments)
 - Adobe Experience Manager (AEM)
 - Web3 components / dApps
 - Machinations (game economy simulation)
@@ -64,7 +65,7 @@ This allows me to not only build systems, but ensure they work under real produc
 ## Contact
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/maria-garcia-jordan/">
+    <a href="https://www.linkedin.com/in/maria-garc%C3%ADa-garc%C3%ADa/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
 </div>
