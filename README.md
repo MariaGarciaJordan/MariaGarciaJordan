@@ -1,26 +1,70 @@
-<h1 align="center">Hello there 👋, I´m María</h1>
+<h1 align="center">María García</h1>
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="80" />
 </div>
 
+<h3 align="center">
+Frontend Developer · Operations · Compliance
+</h3>
 
-<h3 align="center">A full-stack development student from Asturias</h3>
-<h2> About me</h2>
-<h4 align="left">With twelve years of work experience in various sectors, my multidisciplinary training and my ability to face new challenges have allowed me to develop a solid base of skills.
-My commitment to quality and my adaptability allow me to work on projects with dynamic environments and my experience helps me provide ideas and solutions that bring diversity to my team.
-I am curious, creative and I like to innovate, I have a focus on self-improvement and an emphasis on continuous improvement, reasons why I want to grow professionally in the technology sector.</h4>
+---
 
-- 🏆 I’m currently studying at **FactoríaF5**
+## About me
 
-- 🌱 I’m currently learning **Full-Stack development**
+Frontend developer working in production environments, combining software development with operations and compliance.
 
-## 🔭Known Technologies
+Experience managing real systems end-to-end:
+from interface implementation to workflow coordination, quality processes and system reliability.
+
+---
+
+## Experience Highlights
+
+At Numen Games I operate across multiple layers:
+
+- Frontend development (interfaces, components, Web3 integrations)
+- Operations management (workflow coordination, planning, execution)
+- Compliance & quality (ISO processes, internal standards, governance)
+- Game economy systems (design and simulation with Machinations)
+
+This allows me to not only build systems, but ensure they work under real production constraints.
+
+---
+
+## Tech Stack
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,)](https://skillicons.dev"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,astro" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,sass,react,tailwind,figma,)](https://skillicons.dev"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,git,github,figma" />
 </div>
 
-## 📟 Let's Connect!
-<img src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev" href="https://www.linkedin.com/in/maria-garcia-jordan/"/>
+---
 
+## Additional Technologies
+
+- Adobe Experience Manager (AEM)
+- Web3 components / dApps
+- Machinations (game economy simulation)
+- Agile (Scrum / Kanban)
+- Jira / Confluence
+
+---
+
+## Interests
+
+- Compliance & process design
+- Game economy systems
+- Web3 / decentralized applications
+- Scalable frontend architectures
+
+---
+
+## Contact
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/maria-garcia-jordan/">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+</div>
